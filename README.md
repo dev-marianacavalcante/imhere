@@ -27,3 +27,7 @@ Apple Store
 
 - Bug: Permitindo adicionar participante sem nome.
 
+
+![Tela 1](https://imgur.com/VObfYTs)
+![Tela 2](https://imgur.com/BFbTyUw)
+![Tela 3](https://imgur.com/5YaFyq6)
